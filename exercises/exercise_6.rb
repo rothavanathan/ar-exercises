@@ -49,9 +49,5 @@ puts "----------"
   last_name: "Porridge",
   hourly_rate: 100
 )
-@store2.employees.create(
-  first_name: "Mack",
-  last_name: "Power",
-  hourly_rate: 60
-)
+
 
